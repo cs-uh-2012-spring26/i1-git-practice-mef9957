@@ -7,3 +7,5 @@ I found this article interesting because it highlights a very practical idea tha
 ## Proof Reading 
 Article checked for typos 
 
+## - Zayed's Comment
+###I agree with this article in the sense that creating independent blocks of functionality that can be easily added and removed enhances the modularity of the code. It also relates to the concept of reusability: if we design code in self-contained modules, we can reuse them across different software projects. This reduces development time and encourages cleaner, more maintainable software architecture.
