@@ -7,3 +7,6 @@ I found this article interesting because it highlights a very practical idea tha
 ## Proof Reading 
 Article checked for typos 
 
+## Comment by Viesturs Olins
+
+The article made me think about **humility in code writing in order to avoid future pain**. Coding with the assumption that things and circumstances will most likely change in the future is good precaution. Things do change, and when this happens, we want to be able to revert them, fix them as cleanly as possible.
